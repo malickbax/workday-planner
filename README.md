@@ -6,8 +6,7 @@ Work Day Scheduler is a simple calendar application that allows users to save ev
 https://malickbax.github.io/workday-planner/
 
 ## User Story
-- This application is destined for employees with a busy schedule who want to manage their time more efficiently. 
-  GIVEN I am using a daily planner to create a schedule
+- GIVEN I am using a daily planner to create a schedule
   WHEN I open the planner
   THEN the current day is displayed at the top of the calendar
   WHEN I scroll down
