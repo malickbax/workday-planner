@@ -12,3 +12,14 @@ https://malickbax.github.io/workday-planner/
   When I click into a time block, I can enter an event.
   When I click the save button for that time block, the text for that event is saved in local storage.
   When I refresh the page, the saved events persist.
+  
+## Screenshot
+![Screenshot](assets/Screenshot.jpg)
+
+## Tests
+- No test is required. Application is deployed and ready for usage.
+
+## Questions
+**Malick Ba**
+
+For more projects, please visit my [GitHub page](https://github.com/malickbax) 
